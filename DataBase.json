@@ -1,0 +1,62 @@
+[
+  {
+    "name": "book",
+    "price": 12.49,
+    "category": "book",
+    "import": false
+  },
+  {
+    "name": "music CD",
+    "price": 14.99,
+    "category": "other",
+    "import": false
+  },
+  {
+    "name": "chocolate bar",
+    "price": 0.85,
+    "category": "food",
+    "import": false
+  },
+  {
+    "name": "chocolate box",
+    "price": 10.00,
+    "category": "food",
+    "import": true
+  },
+  {
+    "name": "perfume bottle",
+    "price": 47.50,
+    "category": "other",
+    "import": true
+  },
+  {
+    "name": "perfume bottle",
+    "price": 27.99,
+    "category": "other",
+    "import": true
+  },
+  {
+    "name": "perfume bottle",
+    "price": 27.99,
+    "category": "other",
+    "import": true
+  },
+  {
+    "name": "perfume bottle",
+    "price": 18.99,
+    "category": "other",
+    "import": false
+  },
+  {
+    "name": "headache pills",
+    "price": 9.75,
+    "category": "medical",
+    "import": false
+  },
+  {
+    "name": "chocolate",
+    "price": 11.25,
+    "category": "food",
+    "import": true
+  }
+]
